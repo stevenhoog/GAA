@@ -1,3 +1,5 @@
 analytics.dat
 client_secrets.json
+login_credentials.json
+chromedriver
 .DS_Store
